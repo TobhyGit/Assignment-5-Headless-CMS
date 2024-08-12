@@ -1,0 +1,42 @@
+{
+    "dataCards": [
+        {
+            "cardTitle": "Unresolved",
+            "cardNumber": "102"
+        },
+        {
+            "cardTitle": "Overdue",
+            "cardNumber": "45"
+        },
+        {
+            "cardTitle": "Open",
+            "cardNumber": "51"
+        },
+        {
+            "cardTitle": "On hold",
+            "cardNumber": "200"
+        }
+    ],
+    "graphCards": [
+        {
+            "graphTitle": "Resolved",
+            "graphNumber": "800"
+        },
+        {
+            "graphTitle": "Received",
+            "graphNumber": "1200"
+        },
+        {
+            "graphTitle": "Average first response time",
+            "graphNumber": "45m"
+        },
+        {
+            "graphTitle": "Average response time",
+            "graphNumber": "Avg 3h 12"
+        },
+        {
+            "graphTitle": "Resolution within SLA",
+            "graphNumber": "100%"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+#ulnav {
+  gap: 10px;
+}
+
+#highlightednav {
+  padding: 16px 80px 16px 16px;
+  text-decoration: none;
+  font-style: white;
+}
+
+#overviewcards {
+  gap: auto;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #a5a7b3;
+}
+
+.card-number {
+  font-size: 32px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  margin: 20px 0px;
+  padding-top: 20px;
+  background-color: white;
+  filter: drop-shadow(12px 12px 15px rgba(0, 0, 0, 0.144));
+}
+
+/* .card:hover{
+  background-color: rgb(218, 228, 236);
+} */
+#todaystrend {
+  width: 94%;
+  height: auto;
+  margin: 0 30px 0 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#rowinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#middlerow {
+  padding: 16px;
+  height: auto;
+}
+
+#rowtext {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Bottom right card */
+.list-group-item {
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-group-item {
+  padding-top: 16px;
+  padding-bottom: 26px;
+}
+
+/* bottom left card */
+.bottomlefttable {
+  height: auto;
+}
+
+h3 {
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #a5a7b3;
+}
+
+h5 {
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  color: #252733;
+}
+
+#h5special {
+  font-family: Mulish;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  color: #252733;
+}
+
+h6 {
+  font-family: Mulish;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+  color: #a5a7b3;
+}
+
+#h6special {
+  font-family: Mulish;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+}
+
+p {
+  font-family: Mulish;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+  color: #a5a7b3;
+}
+
+.mytable > tbody > tr > td,
+.mytable > tbody > tr > th,
+.mytable > tfoot > tr > td,
+.mytable > tfoot > tr > th,
+.mytable > thead > tr > td,
+.mytable > thead > tr > th {
+  padding: 15px;
+}
+
+hr {
+  background-color: #e2e2e6;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
